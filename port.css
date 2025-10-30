@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.whole{
+    padding: 30px;
+    margin: 20px;
+    
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+.one{
+    background-color: grey;
+    color: black;
+      padding: 25px;
+    margin: 10px;
+    
+}
+.two{
+    display: inline-block;
+    background-color: rgb(157, 168, 232);
+        padding: 5px;
+    margin: 10px;
+   
+}
+.two a{
+     text-decoration: none;
+}
+.two1{
+      background-color: lavender;
+      padding: 25px;
+    margin: 10px;
+}
+input[type="submit"] {
+  background-color:rgb(157, 168, 232);
+}
+.four{
+    background-color: grey;
+    padding: 25px;
+    margin: 10px;
+}
+.four a{
+    text-decoration: none;
+    color:white
+}
+.one,
+.two1,
+.four {
+  margin: 0;
+}

@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.whole{
+    padding: 30px;
+    margin: 20px;
+    
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.one{ 
+    background-color: grey;
+    color: white;
+}
+.rub{
+    display: inline-block;
+    background-color: ivory;
+    padding: 5px;
+    margin: 10px;
+}
+.rub a{
+     text-decoration: none;
+}
+.title1,.title{
+    margin: 10px;
+}
+.desc1,.desc{
+ margin: 10px;
+}
+.two{
+    background-color: lavender;
+    border-radius: 10px;
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    vertical-align: top;
+    
+    
+}
+.three{
+    background-color:rgb(157, 168, 232);
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 800px;
+    height:250px;
+    
+}
+.four{
+    background-color: grey;
+    color: white;
+    margin: 10px;
+    
+    
+}
+.four a{
+    text-decoration: none;
+    color:black
+}
+.html{
+    padding: 150px;
+    margin: 100px;
+}
+.two1,.two2,.two3{
+    padding: 10px;
+    
+}
+.two11,.three11,.two12,.two13,.two14{
+    margin:10px;
+   
+}
+.three11 p{
+     margin:10px;
+}
+.two12,.two13,.two14{
+    padding: 10px;
+}
